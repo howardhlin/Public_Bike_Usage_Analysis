@@ -16,13 +16,17 @@ This repository includes the following sections:
 1. Data cleaning and processing: 
 - For 5 dim table (traffic/region/covid/bike station/weather) and 1 fact table (bike trips)
 - Include scripts in Jupyter notebook and cleaned data.
+
 2. DDL DML SQL query:
 - Include two parts: 
+
 a. “divvybikeDDL” is for building schema “divvybike” to import clean data. 
+
 b. “divvybike_snowflakeDDL” and “ divvybike_snowflakeDML” are for building OLAP database “divvybike_snowflake”.
+
 3. BI process
 - Include two parts: Kepler.gl and Tableau. (Please use Chrome to open html file)
-NoSQL
+
 4. Presentation slides
 
 
