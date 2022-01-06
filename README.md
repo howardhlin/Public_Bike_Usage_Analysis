@@ -18,11 +18,7 @@ This repository includes the following sections:
 - Include scripts in Jupyter notebook and cleaned data.
 
 2. DDL DML SQL query:
-- Include two parts: 
-
-a. “divvybikeDDL” is for building schema “divvybike” to import clean data. 
-
-b. “divvybike_snowflakeDDL” and “ divvybike_snowflakeDML” are for building OLAP database “divvybike_snowflake”.
+- Include two parts: “divvybikeDDL” is for building schema “divvybike” to import clean data. “divvybike_snowflakeDDL” and “ divvybike_snowflakeDML” are for building OLAP database “divvybike_snowflake”.
 
 3. BI process
 - Include two parts: Kepler.gl and Tableau. (Please use Chrome to open html file)
