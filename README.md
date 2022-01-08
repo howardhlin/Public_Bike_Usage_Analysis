@@ -1,6 +1,6 @@
 # Public_Bike_Usage_Analysis
 
-The purpose of this system is to support decision making process for Chicago Divvy Bike company including resource and infrastructure planning. By extracting, organizing, analyzing and visualizing with a variety of platforms (MySQL, Tableau, Excel, Open Refine, Kepler.gl), my teammates and I aim to identify the factors contributing to the usage of Divvy Bike in Chicago.
+The purpose of this project was to support the resource and infrastructure planning process for Chicago Divvy Bike, a bike sharing company. By extracting, organizing, analyzing and visualizing with a variety of platforms (MySQL, Tableau, Excel, Open Refine, Kepler.gl), my teammates and I identified the factors contributing to the usage of Divvy bikes in Chicago.
 
 
 The data includes the following:
