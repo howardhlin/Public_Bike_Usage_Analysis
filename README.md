@@ -18,12 +18,13 @@ This repository includes the following sections:
    - Include scripts in Jupyter notebook and cleaned data.
 
 2. DDL DML SQL query:
--   Include two parts: “divvybikeDDL” is for building schema “divvybike” to import clean data. “divvybike_snowflakeDDL” and “ divvybike_snowflakeDML” are for building OLAP database “divvybike_snowflake”.
+   - “divvybikeDDL” is for building schema “divvybike” to import clean data. 
+   - “divvybike_snowflakeDDL” and “ divvybike_snowflakeDML” are for building OLAP database “divvybike_snowflake”.
 
 3. BI process
-- Include two parts: Kepler.gl and Tableau. (Please use Chrome to open html file)
+   - Include two parts: Kepler.gl and Tableau. (Please use Chrome to open html file)
 
 4. Presentation slides
 
 
-Time series models for forecasting Divvy Bike future weekly usage, please refer to this repository: https://github.com/howardhlin/Public_Usage_Time_Series_Analysis
+For time series models to forecast Divvy Bike future weekly usage, please refer to this repository: https://github.com/howardhlin/Public_Usage_Time_Series_Analysis
